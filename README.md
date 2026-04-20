@@ -1,22 +1,24 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+=======
+# Library Project (Next.js)
+>>>>>>> 5aad1067fe9336b88bef26e453ea6e3ea6706e77
 
-## Getting Started
+This is web is the first project with using Next.js to develop library web application. We can fetch all books 10 books, to see name, author, and short content.
+Additionally, this web has the login authentication system which allows logged in users can manage some books from 10 books. For instance, changing name, author, or short content.
 
-First, run the development server:
+## Features
+Authentication, CRUD, JWT, Middleware
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Tech Stack
+- Next.js 15
+- React 19
+- jose (JWT)
+-  tailwindcss
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+<<<<<<< HEAD
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
@@ -39,3 +41,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # nextjs-practicing
 This is my first project with Next.js
 >>>>>>> 6a24ee1f997da82656b0524b4e11b40498d947e8
+=======
+## ⚙️ Environment Variables
+​```
+for testing
+JOSE_SECRET=[enter here]
+​```
+>>>>>>> 5aad1067fe9336b88bef26e453ea6e3ea6706e77
