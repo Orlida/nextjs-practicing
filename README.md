@@ -1,15 +1,10 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-=======
 # Library Project (Next.js)
->>>>>>> 5aad1067fe9336b88bef26e453ea6e3ea6706e77
 
 This is web is the first project with using Next.js to develop library web application. We can fetch all books 10 books, to see name, author, and short content.
 Additionally, this web has the login authentication system which allows logged in users can manage some books from 10 books. For instance, changing name, author, or short content.
 
 ## Features
-Authentication, CRUD, JWT, Middleware
+Authentication, JWT, Middleware、Server Action
 
 ## Tech Stack
 - Next.js 15
